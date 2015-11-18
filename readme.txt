@@ -1,0 +1,1 @@
+Before you start to install git,please read me first.
